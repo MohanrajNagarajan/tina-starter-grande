@@ -7,15 +7,9 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "Welcome to Vino Mehndi.",
+    "textline": "Although we know the design we made on her hands were not as good as an artist creates... But the love share make her mehndi.. So beautiful.. So Meaningful.. So rememberable... That an artist will fail to do so.",
     "ctas": [
-      {
-        "label": "Read The Blog",
-        "link": "/blog",
-        "primary": true,
-        "arrow": true
-      },
       {
         "label": "Contact Us",
         "link": "/contact",
@@ -23,7 +17,7 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
+    "image": "../images/Mehandi.jpg",
     "large": true
   },
   "displayTitle": false,
